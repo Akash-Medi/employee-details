@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/enployee-details/static/css/main.22b45b2b.chunk.css",
-    "main.js": "/enployee-details/static/js/main.805edf10.chunk.js",
-    "main.js.map": "/enployee-details/static/js/main.805edf10.chunk.js.map",
-    "runtime-main.js": "/enployee-details/static/js/runtime-main.b9f0dc6d.js",
-    "runtime-main.js.map": "/enployee-details/static/js/runtime-main.b9f0dc6d.js.map",
-    "static/css/2.f4c56af9.chunk.css": "/enployee-details/static/css/2.f4c56af9.chunk.css",
-    "static/js/2.bc858ec7.chunk.js": "/enployee-details/static/js/2.bc858ec7.chunk.js",
-    "static/js/2.bc858ec7.chunk.js.map": "/enployee-details/static/js/2.bc858ec7.chunk.js.map",
-    "static/js/3.5ffc9045.chunk.js": "/enployee-details/static/js/3.5ffc9045.chunk.js",
-    "static/js/3.5ffc9045.chunk.js.map": "/enployee-details/static/js/3.5ffc9045.chunk.js.map",
-    "index.html": "/enployee-details/index.html",
-    "static/css/2.f4c56af9.chunk.css.map": "/enployee-details/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.22b45b2b.chunk.css.map": "/enployee-details/static/css/main.22b45b2b.chunk.css.map",
-    "static/js/2.bc858ec7.chunk.js.LICENSE.txt": "/enployee-details/static/js/2.bc858ec7.chunk.js.LICENSE.txt"
+    "main.css": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/css/main.c1b3d997.chunk.css",
+    "main.js": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/main.3ef615e8.chunk.js",
+    "main.js.map": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/main.3ef615e8.chunk.js.map",
+    "runtime-main.js": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/runtime-main.40b1d063.js",
+    "runtime-main.js.map": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/runtime-main.40b1d063.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.e1367b7e.chunk.js": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/2.e1367b7e.chunk.js",
+    "static/js/2.e1367b7e.chunk.js.map": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/2.e1367b7e.chunk.js.map",
+    "static/js/3.5ffc9045.chunk.js": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/3.5ffc9045.chunk.js",
+    "static/js/3.5ffc9045.chunk.js.map": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/3.5ffc9045.chunk.js.map",
+    "index.html": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.c1b3d997.chunk.css.map": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/css/main.c1b3d997.chunk.css.map",
+    "static/js/2.e1367b7e.chunk.js.LICENSE.txt": "/%E2%80%9Chttp://Akash-Medi.github.io/employee-details/static/js/2.e1367b7e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9f0dc6d.js",
+    "static/js/runtime-main.40b1d063.js",
     "static/css/2.f4c56af9.chunk.css",
-    "static/js/2.bc858ec7.chunk.js",
-    "static/css/main.22b45b2b.chunk.css",
-    "static/js/main.805edf10.chunk.js"
+    "static/js/2.e1367b7e.chunk.js",
+    "static/css/main.c1b3d997.chunk.css",
+    "static/js/main.3ef615e8.chunk.js"
   ]
 }
